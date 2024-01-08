@@ -10,8 +10,8 @@ Embark on an intergalactic adventure in our 2D space shooter game. Battle throug
 
 ## Screenshots
 
-![Gameplay Screenshot 1](screenshots/gameplay1.png)
-![Gameplay Screenshot 2](screenshots/gameplay2.png)
+![Gameplay Screenshot 1](<img width="1614" alt="Screenshot 2024-01-07 at 3 23 51 PM" src="https://github.com/GKcodebase/2DShooter/assets/23521120/c6204f89-63ab-4b0f-b150-48819b9bd83c">)
+![Gameplay Screenshot 2](![Screenshot_3360x1920_4](https://github.com/GKcodebase/2DShooter/assets/23521120/998a9f42-e401-45ff-a7a5-0b686738495c))
 
 ## Features
 
