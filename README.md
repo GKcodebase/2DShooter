@@ -2,16 +2,17 @@
 
 Welcome to the development repository for our thrilling 2D space shooter game created using Unity!
 
+
 ## Game Overview
 
-Embark on an intergalactic adventure in our 2D space shooter game. Battle through waves of enemies, upgrade your spaceship, and explore the vastness of space!
+Embark on an intergalactic adventure in our [2D space shooter game](https://gk-itch.itch.io/bleedingmoon). Battle through waves of enemies, upgrade your spaceship, and explore the vastness of space!
 
 🚀 **Current Development Status: Under Active Development**
 
 ## Screenshots
 
-![Gameplay Screenshot 1](<img width="1614" alt="Screenshot 2024-01-07 at 3 23 51 PM" src="https://github.com/GKcodebase/2DShooter/assets/23521120/c6204f89-63ab-4b0f-b150-48819b9bd83c">)
-![Gameplay Screenshot 2](![Screenshot_3360x1920_4](https://github.com/GKcodebase/2DShooter/assets/23521120/998a9f42-e401-45ff-a7a5-0b686738495c))
+![Gameplay Screenshot 1](https://github.com/GKcodebase/2DShooter/assets/23521120/c6204f89-63ab-4b0f-b150-48819b9bd83c)
+![Gameplay Screenshot 2](https://github.com/GKcodebase/2DShooter/assets/23521120/998a9f42-e401-45ff-a7a5-0b686738495c)
 
 ## Features
 
