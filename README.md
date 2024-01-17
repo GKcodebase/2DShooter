@@ -17,7 +17,6 @@ Embark on an intergalactic adventure in our [2D space shooter game](https://gk-i
 ## Features
 
 - **Intense Space Battles:** Engage in high-energy space battles with smooth and responsive controls.
-- **Upgradeable Spaceship:** Collect power-ups and upgrade your spaceship for enhanced firepower and defense.
 - **Enemy Armada:** Face a variety of enemy ships, each with unique behaviors and attack patterns.
 - **Dynamic Backgrounds:** Experience visually stunning space environments with dynamic backgrounds.
 - **Level Progression:** Explore different sectors of space, each with increasing difficulty and challenges.
