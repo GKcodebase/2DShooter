@@ -26,7 +26,7 @@ Embark on an intergalactic adventure in our [2D space shooter game](https://gk-i
 1. **Download Unity:** Make sure you have Unity installed on your machine.
 2. **Clone the Repository:**
    ```bash
-     git clone https://github.com/your-username/2d-space-shooter.git
+     git clone https://github.com/GKcodebase/2DShooter.git
    ```
 
 
